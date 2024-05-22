@@ -1,0 +1,14 @@
+
+Box Model introduction : 
+
+The Box Model is a simple way to visualize the different elements that make up a web page. It is a useful tool for understanding how different elements interact
+with each other and how they affect the overall layout of a page. 
+
+The Box Model consists of four main components: 
+
+1. Margin
+2. Border
+3. padding
+4. content
+ 
+ 
